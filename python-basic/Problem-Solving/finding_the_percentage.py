@@ -1,0 +1,21 @@
+''' 
+    Date         : 02/11/2020
+    Day          : Monday
+    Author       : Md. Aminul Islam
+    Topic        : Problem Solving
+    Problem      : Finding the percentage
+    Problem link : https://www.hackerrank.com/challenges/finding-the-percentage/problem
+'''
+
+if __name__ == '__main__':
+    n = int(input())
+    student_marks = {}
+    for _ in range(n):
+        name, *line = input().split()
+        scores = list(map(float, line))
+        student_marks[name] = scores
+        # print(student_marks)
+    query_name = input()
+
+    avg = sum(student_marks[query_name])/3
+    print('{:.2f}'.format(avg))
