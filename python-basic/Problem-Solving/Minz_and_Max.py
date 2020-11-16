@@ -17,3 +17,4 @@ arr_min = np.min(arr, axis = 1)
 arr_max = np.max(arr_min)
 
 print(arr_max)
+
