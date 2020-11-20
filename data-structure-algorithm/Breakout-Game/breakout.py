@@ -1,7 +1,9 @@
-# Importing the pygame library and initialise the game engine
+# Import the pygame library and initialise the game engine
 import pygame
-# Import the Paddle Class
+# Import the Paddle, Ball, and Brick Class
 from paddle import Paddle
+from ball import Ball
+
 
 pygame.init()
 
@@ -31,8 +33,16 @@ paddle = Paddle(LIGHTBLUE, 100, 10)
 paddle.rect.x = 350
 paddle.rect.y = 560
 
-# Add the paddle to the list of sprites
+# Create the ball sprite
+ball = Ball(WHITE, 10, 10)
+ball.rect.x = 345
+ball.rect.y = 195
+
+
+
+# Add the paddle and ball to the list of sprites
 all_sprites_list.add(paddle)
+all_sprites_list.add(ball)
 
 
 # The loop will carry on until the user exit the game (e.g. clicks the close button).
@@ -58,6 +68,16 @@ while carryOn:
 
     # --- Game logic should go here
     all_sprites_list.update()
+
+    # Check if the ball is bouncing against any of the 4 walls
+    if ball.rect.x >= 790:
+        ball.velocity[0] = -ball.velocity[0]
+    if ball.rect.x <= 0:
+        ball.velocity[0] = -ball.velocity[0]
+    if ball.rect.y > 590:
+        ball.velocity[1] = -ball.velocity[1]
+    if ball.rect.y < 40:
+        bal.velocity[1] = -bal.velocity[1]
 
     # --- Drawing code should go here
     # First, clear the screen to dark blue.
