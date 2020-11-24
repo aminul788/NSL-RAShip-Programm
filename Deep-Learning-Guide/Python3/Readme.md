@@ -12,7 +12,7 @@
    >* List Comprehension
    >* Dictionary Comprehension
 
-- [ ] [Part-3]()
+- [x] [Part-3]()
   >* Iterators
   >* Generatores
 
