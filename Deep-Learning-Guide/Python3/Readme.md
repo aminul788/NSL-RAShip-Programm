@@ -8,7 +8,7 @@
    >* Tuple
    >* Set
    >
-- [ ] [Part - 2]()
+- [x] [Part - 2]()
    >* List Comprehension
    >* Dictionary Comprehension
 
