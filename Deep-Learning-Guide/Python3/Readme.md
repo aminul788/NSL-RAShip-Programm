@@ -16,7 +16,7 @@
   >* Iterators
   >* Generatores
 
-- [ ] [Part-4](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_4.ipynb)
+- [x] [Part-4](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_4.ipynb)
   >* File I/O
   >* os, walk, shutil, glob
 
