@@ -8,11 +8,11 @@
    >* Tuple
    >* Set
    >
-- [x] [Part - 2]()
+- [x] [Part - 2](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_2.ipynb)
    >* List Comprehension
    >* Dictionary Comprehension
 
-- [x] [Part-3]()
+- [x] [Part-3](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_3.ipynb)
   >* Iterators
   >* Generatores
 
