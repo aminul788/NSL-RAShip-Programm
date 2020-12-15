@@ -12,20 +12,20 @@
    >* List Comprehension
    >* Dictionary Comprehension
 
-- [x] [Part-3](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_3.ipynb)
+- [x] [Part - 3](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_3.ipynb)
   >* Iterators
   >* Generatores
 
-- [x] [Part-4](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_4.ipynb)
+- [x] [Part - 4](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_4.ipynb)
   >* File I/O
   >* os, walk, shutil, glob
 
-- [x] [Part-5](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_5_%5BOOP%5D.ipynb)
+- [x] [Part - 5](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_5_%5BOOP%5D.ipynb)
   >* Class & Object
   >* Inheritance
   >* Magic Method
 
-- [x] [Part-6](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_6.ipynb)
+- [x] [Part - 6](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_6.ipynb)
   >* Python Module Vs Package
   
 ###  :books: References
