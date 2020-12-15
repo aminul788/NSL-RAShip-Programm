@@ -25,7 +25,7 @@
   >* Inheritance
   >* Magic Method
 
-- [ ] [Part-6]()
+- [x] [Part-6](https://github.com/aminul788/NSL-RAShip-Programm/blob/main/Deep-Learning-Guide/Python3/python3_intro_part_6.ipynb)
   >* Python Module Vs Package
   
 ###  :books: References
