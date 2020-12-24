@@ -1,6 +1,6 @@
 ## Cat vs Dog classification
-  * Data collection
-  * Data visualization
+  * Data collection / Download Dataset
+  * Data visualization / Sneak-Peak on dataset
   * Creating model
   * Compile model
   * Traning / Fit a model
